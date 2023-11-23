@@ -1,0 +1,123 @@
+body 
+{ 
+    background-color: rgb(236, 193, 231);
+
+}
+
+h1  {
+    color: rgb(38, 15, 92) ;
+ font-family: 'Croissant One', serif;
+    text-shadow: 3px 4px 6px rgb(255, 254, 254);
+    text-align: center;
+    font-size: 45px;
+}
+
+h1:hover{
+    color:black;
+    font-family:'Young Serif', serif;
+    transition-duration:5s;
+    text-shadow:4px 7px 9px white;
+    font-size:55px;
+}
+
+ p{ 
+  font-size: 15px;
+  position: relative;
+  text-align: center;
+  color: rgb(61, 6, 71);
+  font-family: 'Delius', cursive;
+ }
+ 
+ 
+ p:hover{
+     font-size:10px;
+     
+     color:rgb(63,7,73);
+ }
+
+ .UNO{ 
+ 
+ background-color: rgb(202, 147, 188);
+ padding: 23px;
+ border-color: darkmagenta;
+  border-style: dashed;
+ 
+
+ }
+
+
+.UNO:hover {
+  border-radius: 30%;
+  border-color: rgb(9, 2, 75);
+  border-style: dotted;
+  transition: 2s;
+}
+
+
+ .DOS{ 
+ 
+ background-color: rgb(214, 121, 191);
+ padding: 23px;
+ border-color: rgb(175, 52, 175);
+  border-style: dashed ;
+  
+
+ }
+
+
+.DOS:hover {
+  border-radius: 30%;
+  border-color: rgb(140, 134, 185);
+  border-style: dotted;
+  transition: 2s;
+  box-shadow: 6px 6px 6px rgb(83, 13, 97);
+ position: relative;
+ }
+
+
+ .t { 
+ 
+color: rgb(62, 7, 90);
+font-size: 25px;
+  font-family: 'Young Serif', serif;
+  text-shadow: 3px 3px 2px palevioletred ;
+position: relative;
+
+ }
+
+
+ .t:hover {
+  color: blueviolet;
+text-shadow: 3px 3px 2px rgb(172, 152, 158) ;
+
+transition: 4px;
+ 
+ }
+
+
+
+.i { 
+ 
+
+
+color: rgb(45, 14, 73);
+font-size: 25px;
+  font-family: 'Young Serif', serif;
+ text-shadow: 3px 3px 2px rgb(172, 152, 158) ;
+position: relative;
+
+
+ }
+
+
+ .i:hover {
+  color: rgb(62, 7, 90);
+
+ text-shadow: 3px 3px 2px rgb(85, 125, 199) ;
+transition: 4px;
+
+ }
+
+ p{ 
+color: aliceblue;
+ }
